@@ -4,3 +4,4 @@ new rep to practice
 - Fork this project
 - Make changes
 - Submit a pull request
+- Test with branching
